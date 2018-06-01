@@ -1,7 +1,6 @@
 # Frida
-Nord Follower for Skyrim SE
 
-[Frida Follower with CBBE and CBP](https://www.nexusmods.com/skyrimspecialedition/mods/17541)
+Nexus Mods: [Frida Follower with CBBE and CBP](https://www.nexusmods.com/skyrimspecialedition/mods/17541)
 
 ## Introduction
 
